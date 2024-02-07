@@ -11,7 +11,3 @@ This is a simple example of creating a webpage with a scroll bar using HTML and 
 - **index.html:** HTML file containing the structure of the webpage.
 - **styles.css:** CSS file with styles for the webpage.
 
-# Screenshot
-Here we have project screenshot :
-
-![screenshot](screenshot.png)
