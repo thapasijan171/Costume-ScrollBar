@@ -1,4 +1,6 @@
-![image](https://github.com/thapasijan171/Costume-ScrollBar/assets/110030917/700de946-0f53-4cc9-8c57-3781021bf3fe)# Scroll Bar Example
+![image](https://github.com/thapasijan171/Costume-ScrollBar/assets/110030917/700de946-0f53-4cc9-8c57-3781021bf3fe)
+
+## Scroll Bar Example
 
 This is a simple example of creating a webpage with a scroll bar using HTML and CSS.
 
